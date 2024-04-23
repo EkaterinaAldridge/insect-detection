@@ -288,3 +288,4 @@ For Ultralytics bug reports and feature requests please visit [GitHub Issues](ht
   <a href="https://ultralytics.com/discord" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-discord.png" width="3%" alt="" /></a>
 </div>
+# insect-detection
